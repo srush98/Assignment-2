@@ -8,6 +8,50 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleApp1.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\ConsoleApp1.deps.json" />
+    <Content Include="bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json" />
+    <Content Include="obj\ConsoleApp1.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net8.0\ConsoleApp1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net8.0\ConsoleApp1.sourcelink.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\ConsoleApp1.dll" />
+    <None Include="bin\Debug\net8.0\ConsoleApp1.exe" />
+    <None Include="bin\Debug\net8.0\ConsoleApp1.pdb" />
+    <None Include="bin\Debug\net8.0\nunit.engine.api.dll" />
+    <None Include="bin\Debug\net8.0\nunit.engine.core.dll" />
+    <None Include="bin\Debug\net8.0\nunit.engine.dll" />
+    <None Include="bin\Debug\net8.0\nunit.framework.dll" />
+    <None Include="bin\Debug\net8.0\NUnit3.TestAdapter.dll" />
+    <None Include="bin\Debug\net8.0\NUnit3.TestAdapter.pdb" />
+    <None Include="bin\Debug\net8.0\testcentric.engine.metadata.dll" />
+    <None Include="obj\ConsoleApp1.csproj.nuget.g.props" />
+    <None Include="obj\ConsoleApp1.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net8.0\apphost.exe" />
+    <None Include="obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.assets.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.dll" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.pdb" />
+    <None Include="obj\Debug\net8.0\refint\ConsoleApp1.dll" />
+    <None Include="obj\Debug\net8.0\ref\ConsoleApp1.dll" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="NUnit" Version="3.14.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
   </ItemGroup>
